@@ -1,4 +1,4 @@
-# **FastText_Meta-Ecommerce-Category-Classification**
+# **FastText (Meta) -Ecommerce-Category-Classification**
 ### 🛍️ **Project Overview**
 This project leverages the powerful FastText algorithm to classify ecommerce products into their respective categories based on their descriptions. By combining the strength of natural language processing with machine learning, we've created a robust system that accurately categorizes products, enhancing user experience and improving product discoverability.
 
