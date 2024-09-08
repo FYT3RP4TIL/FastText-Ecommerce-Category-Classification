@@ -8,7 +8,7 @@ The dataset used in this project contains e-commerce item descriptions categoriz
 
 1. 🏠 Household
 2. 🖥️ Electronics
-3. 👚 Clothing and Accessories
+3. 🧥 Clothing and Accessories
 4. 📚 Books
 
 Dataset source: [Kaggle - E-commerce Text Classification](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
@@ -113,7 +113,7 @@ Confidence: 98.56%
 
 The model correctly identifies this as an electronics product with high confidence.
 
-### 👚 Clothing and Accessories Prediction
+### 🧥 Clothing and Accessories Prediction
 
 ```python
 product_description = "ockey men's cotton t shirt fabric details 80 cotton 20 polyester super combed cotton rich fabric"
